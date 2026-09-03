@@ -1,0 +1,15 @@
+id: e29be955f2b34a44a5985543bb705a75
+annotation_type: SubTitle
+revision: '00001'
+annotations:
+  c5dcdb20065d4a9ea7e4731363afb222:
+    span:
+      start: 26
+      end: 44
+  28e96a6b05ff423ca382d10fca74bc23:
+    span:
+      start: 120
+      end: 126
+local_ids:
+  c5dcdb20065d4a9ea7e4731363afb222: 200000
+  28e96a6b05ff423ca382d10fca74bc23: 200001

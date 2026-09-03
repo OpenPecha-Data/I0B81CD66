@@ -1,0 +1,27 @@
+id: I0B81CD66
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SS-43-2
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  author: མཛད་པ་པོ། ཀརྨ་ཕྲིནལས་པ།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ཕྲིནལས་པ།
+  sku: RDI-SS-43-2
+  cover: Book-43_Part_B_Cover_Front.jpg
+  volume: {}
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors: *id001
+  sku: RDI-SS-43-2
+  cover: Book-43_Part_B_Cover_Front.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- SubTitle
+- Tsawa
+- Yigchung

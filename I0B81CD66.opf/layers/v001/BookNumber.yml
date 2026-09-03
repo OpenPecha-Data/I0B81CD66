@@ -1,0 +1,15 @@
+id: 79a3583fcd0244b199bfc444cee466f3
+annotation_type: BookNumber
+revision: '00001'
+annotations:
+  c0a15a28ab3341e5b9a7004f6ab6d023:
+    span:
+      start: 26
+      end: 44
+  a641d6c2176e4d88882c132cc8b0e66c:
+    span:
+      start: 120
+      end: 126
+local_ids:
+  c0a15a28ab3341e5b9a7004f6ab6d023: 200000
+  a641d6c2176e4d88882c132cc8b0e66c: 200001
