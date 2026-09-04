@@ -13,7 +13,6 @@
 	- citation
 	- commentary
 	- sabche
-	- sub_title
 	- tsawa
 	- yigchung
 
